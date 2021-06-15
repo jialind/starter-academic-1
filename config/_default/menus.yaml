@@ -8,24 +8,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-#  - name: News
-#    url: '#news'
-#    weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
   - name: Publications
     url: '#publications'
     weight: 40
   - name: Experience
     url: '#experience'
-    weight: 50  
+    weight: 50 
   - name: Honors&Awards
     url: '#accomplishments'
-    weight: 60  
+    weight: 60 
   - name: Contact
     url: '#contact'
     weight: 70
