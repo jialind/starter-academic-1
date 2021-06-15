@@ -73,5 +73,5 @@ Jialin Dong is a Ph.D. student of Environmental ENgineering at the UCI Olivares 
 
 董家麟是加州大学尔湾分校2021级的博士学生。我的研究兴趣是使用数据挖掘方法，尤其是机器学习，对被“永久化学品”全氟和多氟烷基物质 (PFAS) 污染的场地进行化学和生物原位修复。
 
-
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
