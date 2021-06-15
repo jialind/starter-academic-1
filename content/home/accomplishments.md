@@ -39,5 +39,5 @@ item:
     date_start: '2017'
 
 design:
-  columns: '1' 
+  columns: '2' 
 ---
